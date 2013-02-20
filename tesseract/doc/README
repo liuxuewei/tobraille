@@ -1,0 +1,41 @@
+Note that this is a text-only and possibly out-of-date version of the 
+wiki ReadMe, which is located at:
+ http://code.google.com/p/tesseract-ocr/wiki/ReadMe
+
+Introduction
+============
+This package contains the Tesseract Open Source OCR Engine.
+Orignally developed at Hewlett Packard Laboratories Bristol and
+at Hewlett Packard Co, Greeley Colorado, all the code
+in this distribution is now licensed under the Apache License:
+
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+** http://www.apache.org/licenses/LICENSE-2.0
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+
+Language specific data files can be found on:
+http://code.google.com/p/tesseract-ocr/downloads/list
+You need at least one and put it to tessdata directory!
+
+Windows build was done on Windows XP SP3 with VC++2008
+
+Leptonica library (leptonlib.dll) is from 
+http://leptonica.googlecode.com/files/leptonica-1.66-win32-lib-include-dirs.zip
+Licence of Leptonica can be found on:
+http://www.leptonica.com/about-the-license.html
+
+Source code:
+http://tesseract-ocr.googlecode.com/files/tesseract-3.00.tar.gz
+http://code.google.com/p/tesseract-ocr/source/checkout
+
+If you have any question please read first:
+http://code.google.com/p/tesseract-ocr/w/list
+
+or search in forum:
+http://groups.google.com/group/tesseract-ocr/

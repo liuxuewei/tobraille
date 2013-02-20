@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Sep 21 22:13:35 GMT+08:00 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\Administrator\\Desktop\\toBraille.jar
+manifest.mergeall=true
+manifest.mainclass=liuxuewei.demo.Demo
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
